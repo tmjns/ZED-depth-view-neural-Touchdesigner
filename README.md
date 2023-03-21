@@ -6,7 +6,7 @@ ZED-depth-view-neural-Touchdesigner
 ## Run
 
 ```
-python main.js
+python main.py
 ```
 
 ## Browse
